@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Session state
+appstate.json
+
+# Environment variables
+.env

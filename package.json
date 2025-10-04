@@ -1,0 +1,21 @@
+{
+  "name": "facebook-echo-bot",
+  "version": "1.0.0",
+  "description": "A Facebook Messenger echo bot with session persistence.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "chat-api"
+  ],
+  "author": "Jules",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "facebook-chat-api": "^1.8.0"
+  }
+}
